@@ -1,0 +1,3 @@
+{
+    "func": "window.Test = eval",
+}
